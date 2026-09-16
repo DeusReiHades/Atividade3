@@ -20,7 +20,7 @@ public class atividade {
             System.out.println("Numeros são iguais");
         }
 
-
+// teste push2
 scanner.close();
     }
 
