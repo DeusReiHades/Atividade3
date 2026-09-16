@@ -19,7 +19,7 @@ public class atividade {
         }else{
             System.out.println("Numeros são iguais");
         }
-//teste push
+//teste push 5
 
 
 scanner.close();
